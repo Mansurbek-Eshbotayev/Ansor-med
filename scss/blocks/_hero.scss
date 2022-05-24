@@ -14,7 +14,7 @@
 }
 
 .hero__title{
-  font-family: 'Open Sans Condensed';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -73,3 +73,5 @@
     opacity: 0.6;
   }
 }
+
+@include media-max 
